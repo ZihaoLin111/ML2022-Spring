@@ -220,3 +220,10 @@ marimo/_lsp/
 __marimo__/
 
 Submission/
+HW03/food11.zip
+HW03/food11.zip.1
+HW03/food11/
+
+
+*.ckpt
+sample_log.txt
